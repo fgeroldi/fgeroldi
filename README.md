@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Felipe 👋</h1>
-  <p><strong>Backend Developer • Go | Rust | Java</strong></p>
+  <p><strong>Backend Developer</strong></p>
 </div>
 
 ### 👨‍💻 About Me
