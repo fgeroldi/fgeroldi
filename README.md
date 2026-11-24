@@ -33,7 +33,7 @@
 ### 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-geroldi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logoColor=white" />
   </a>
 </p>
