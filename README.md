@@ -5,15 +5,15 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working with **Backend Architecture, APIs & High-Performance Systems**
-- 🌱 Deepening my knowledge in **Rust, Golang and Distributed Systems**
-- 💬 Ask me about **Go, Rust, Java and Linux**
+- 🌱 Deepening my knowledge in **Go, Java, Rust and Distributed Systems**
+- 💬 Ask me about **Go, Java, Rust and Linux**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,java,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,rust,docker,linux,git&theme=dark" />
 </p>
 
 ---
